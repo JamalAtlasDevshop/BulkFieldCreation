@@ -1,0 +1,8 @@
+Label,Name,Object Api Name,Type,External Id,Length,Required,Unique,Help Text,Description,Scale
+value1,fefef,value11,Text,0,value5,TRUE,0,value9,value10,1
+value1,value2,value12,Date,FALSE,value5,FALSE,0,value9,value10,1
+efefef,value3,value13,Text,FALSE,,TRUE,TRUE,value9,value10,1
+value1,value4,value14,date,FALSE,value5,efefe,0,value9,value10,1
+value1,value5,value15,Text,0,100,0,0,value9,value10,1
+value1,value6,value16,number,FALSE,value5,1,TRUE,value9,value10,1
+value1,value7,value17,Number,FALSE,666,FALSE,0,value9,value10,1
